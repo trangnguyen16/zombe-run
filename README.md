@@ -1,1 +1,2 @@
-# zombe-run
+# zombe-run 
+Cloning a Unity 3D game project created by someone else can help me learn game development. By studying the code and design of an existing game, I can gain insights into game mechanics, UI elements, and game logic. Cloning a Unity 3D game project can also help me learn about the different features of Unity and practice modifying and customizing code. It's important to respect the original creator's work and avoid infringing on any intellectual property rights. By using cloned projects as a learning tool, I can gain practical experience and develop the skills necessary to create my own games from scratch.
